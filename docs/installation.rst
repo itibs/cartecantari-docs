@@ -1,6 +1,6 @@
-============
-Zero to Hero
-============
+======================
+Zero to Hero (Windows)
+======================
 
 To start developing applications in Flutter, you first need to set up the environment.
 
@@ -16,6 +16,8 @@ To start developing applications in Flutter, you first need to set up the enviro
 
 .. _`Flutter`: https://flutter.dev/docs/get-started/install
 
+    * Choose ``C:\src\flutter`` for location.
+
 4. Download the application (CarteCantariFlutter)
 
     * Open a new **VS Code** window
@@ -29,3 +31,4 @@ To start developing applications in Flutter, you first need to set up the enviro
 
     * Inside **VS Code**, go to `Extensions` tab (Ctrl+Shift+X)
     * Search for `Flutter` extension and install
+    * If prompted for SDK Location, go to ``C:\src\flutter``.
